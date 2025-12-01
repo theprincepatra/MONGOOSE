@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-todo",
+  "version": "1.0.0",
+  "description": "Simple Express + Mongoose Todo API for learning.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose",
+    "todo"
+  ],
+  "author": "TPP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0",
+    "mongoose": "^8.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
+  
