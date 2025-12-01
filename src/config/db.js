@@ -1,3 +1,4 @@
+// This file is for connecting to MongoDB
 const mongoose = require("mongoose");
 
 async function connectDB() {
